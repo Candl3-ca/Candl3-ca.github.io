@@ -1,0 +1,13 @@
+Index: Sit3/index.html
+===================================================================
+diff --git a/Sit3/index.html b/Sit3/index.html
+--- a/Sit3/index.html	
++++ b/Sit3/index.html	
+@@ -11,6 +11,7 @@
+         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
+     <link rel="stylesheet" href="style.css">
++    <script src="assets/js/script.js"></script>
+ </head>
+ 
+ <body class="bg-black muli">
