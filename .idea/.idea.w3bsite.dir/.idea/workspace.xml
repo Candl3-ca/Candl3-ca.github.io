@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09b3ccfe-b216-43ea-8034-7c15f980467b" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.hook-theme-master.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.hook-theme-master.dir/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.hook-theme-master.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.hook-theme-master.dir/.idea/indexLayout.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09b3ccfe-b216-43ea-8034-7c15f980467b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +55,7 @@
       <workItem from="1670087445959" duration="2617000" />
       <workItem from="1670113364908" duration="1874000" />
       <workItem from="1670195747060" duration="518000" />
-      <workItem from="1670196285777" duration="314000" />
+      <workItem from="1670196285777" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1670114965417</created>
@@ -83,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670196528208</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1670196608191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670196608191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
