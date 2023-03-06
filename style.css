@@ -50,3 +50,40 @@
         left: 0%;
     }
 }
+
+
+/* new <p> thingy */
+body {
+    margin:0;
+    padding:0;
+    background:black;
+    color: #8539ff;
+    font-family: 'Rubik', sans-serif;
+}
+p {
+    font-size:40px;
+    display:block;
+    text-align:-webkit-center;
+    line-height:100px;
+    height:230px;
+    margin-top:10vh;
+    margin-left:11vw;
+    text-transform:uppercase;
+    letter-spacing:10px
+}
+/* <p> animation is in the Js file */
+
+
+#consoleText {
+    font: 1.3rem Inconsolata, monospace;
+    text-shadow: 0 0 5px rgba(110, 0, 255, 0.08);
+    color: rgba(110, 0, 255, 0.08);
+    position: fixed; /* Sit on top of the page content */
+    /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

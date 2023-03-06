@@ -1,5 +1,9 @@
 $(document).ready(function () {
 
+    // new animation
+    // making the <p> element animate
+
+
     // toggle mobile menu
     $('[data-toggle="toggle-nav"]').on('click', function () {
         $(this).closest('nav').find($(this).attr('data-target')).toggleClass('hidden');
@@ -38,4 +42,9 @@ $(document).ready(function () {
             }
         }, ]
     });
+
 });
+
+
+
+
