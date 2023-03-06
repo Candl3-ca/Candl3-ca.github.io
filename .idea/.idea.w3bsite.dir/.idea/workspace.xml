@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09b3ccfe-b216-43ea-8034-7c15f980467b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Folder.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.w3bsite.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.w3bsite.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="09b3ccfe-b216-43ea-8034-7c15f980467b" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +20,28 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
+    </option>
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2d81e819-391e-4cb6-9ca1-3f905517fb11" />
+        <option name="url" value="https://github.com/Candl3-ca/Candl3-ca.github.io.git" />
+      </UrlAndAccount>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2IPe3E6fMYu2aMn1UfH5ZO1sIG7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,7 +91,7 @@
       <workItem from="1670804545458" duration="2873000" />
       <workItem from="1670807607525" duration="100000" />
       <workItem from="1673364047893" duration="269000" />
-      <workItem from="1678068768752" duration="1051000" />
+      <workItem from="1678068768752" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1670114965417</created>
@@ -130,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670273986538</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=".">
+      <created>1678069838704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678069838704</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".">
+      <created>1678070146807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678070146807</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

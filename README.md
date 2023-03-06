@@ -9,3 +9,4 @@ This landing page theme is built on [shorthand css fw](https://github.com/shorth
 ## Credit
 
 * Icons [feathericons](https://feathericons.com)
+ 
