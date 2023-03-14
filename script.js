@@ -9,7 +9,7 @@ $(document).ready(function () {
         $(this).closest('nav').find($(this).attr('data-target')).toggleClass('hidden');
         return false;
     });
- 
+  
     // feather icons
     feather.replace();
 
